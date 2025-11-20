@@ -1,0 +1,173 @@
+NOME: Josué Marques
+NMEC: 131953
+
+- Tarefa 1: "git clone https://github.com/Josu-M/LI2025-Teste03.git"
+
+- Tarefa 2: "mkdir A131953"; "cd A131953"; "touch README.md"; "vim README.md"; "cd .."; "git add .", "git commit -m "2ª tarefa concluída"", "git push origin main";
+
+- Tarefa 3: 
+
+- Tarefa 4: 
+
+Tarefa 6: 
+    1  cd
+    2  pwd
+    3  ls
+    4  ps
+    5  top
+    6  du -xh ~
+    7  touch
+    8  vim eu.txt
+    9  ls
+   10  ls -R eu.txt
+   11  cat eu.txt
+   12  exit
+   13  exit!
+   14  exit
+   15  ls
+   16  exit
+   17  sudo apt update
+   18  sudo apt upgrade -y
+   19  sudo systemctl status apache2
+   20  sudo apt install apache2 -y
+   21  sudo systemctl status apache2
+   22  sudo systemctl start apache2
+   23  sudo systemctl enable apache2
+   24  ls -all
+   25  git
+   26  cd /var/www/html
+   27  ls -all
+   28  sudo vi index.html
+   29  ls -all
+   30* git clone https://github.com/Josu-M/Project1.git
+   31  sudo git clone https://github.com/Josu-M/Project1.git
+   32  ls -all
+   33  pwd
+   34  ls
+   35  cat eu.txt
+   36  head -1
+   37  head -1 eu.txt
+   38  head -3 eu.txt
+   39  vim eu.txt
+   40  vi eu.txt
+   41  git clone
+   42  clear
+   43  exit
+   44  ls -all
+   45  find ~ -name "eu.txt"
+   46  ls
+   47  vi eu.txt
+   48  cat eu.txt
+   49  clear
+   50  pwd
+   51  git remote add origin https://github.com/Josu-M/LI2025-Teste03.git
+   52  git add origin https://github.com/Josu-M/LI2025-Teste03.git
+   53  cd /C:
+   54  cd
+   55  git clone https://github.com/Josu-M/LI2025-Teste03.git
+   56  ls
+   57  cd LI2025-Teste03
+   58  ls
+   59  cd
+   60  cd -
+   61  dir A131953
+   62  mkdir A131953
+   63  ls
+   64  cd +
+   65  cd A131953
+   66  touch README.md
+   67  ls
+   68  vim README.md
+   69  cd ..
+   70  git add .
+   71  git commit -m "2ª tarefa concluída"
+   72  git config --global --edit
+   73  git commit --amend --reset-author
+   74  git config --global user.name "Josu-M"
+   75  git config --global user.email josuemarques@ua.pt
+   76  git commit --amend --reset-author
+   77  git commit -m "2ª tarefa concluída"
+   78  ls
+   79  git branch --unset-upstream
+   80  git commit -m "2ª tarefa concluída"
+   81  ls
+   82  git config --global user.email "josuemarques@ua.pt"
+   83  git config --global user.name "Josu-M"
+   84  git commit -m "2ª tarefa concluída"
+   85  git push origin main
+   86  git config --global credential.helper store
+   87  git push origin main
+   88  exit
+   89  ls
+   90  cd LI2025-Teste03
+   91  ls
+   92  cd A131953
+   93  ls
+   94  cat README.md
+   95  cd ..
+   96  git add .
+   97  git commit -m "2ª tarefa concluída"
+   98  git add .
+   99  git commit -m "2ª tarefa concluída"
+  100  git status
+  101  git add A131953/
+  102  git commit -m "2ª tarefa concluída"
+  103  git push origin main
+  104  rm A131953
+  105  rm /A131953
+  106  ls
+  107  cd .
+  108  ls
+  109  cd A131953
+  110  ls
+  111  rm README.md
+  112  ls
+  113  cd ..
+  114  rmdir A131953
+  115  ls
+  116  mkdir A131953
+  117  cd A131953
+  118  echo "Teste de LI 2025/2026" > README.md
+  119  cd ..
+  120  git add .
+  121  git commit -m "2ª tarefa concluída"
+  122  git push origin main
+  123  cd A131953
+  124  git add .
+  125  git commit -m "2ª tarefa concluída
+  126  git commit -m "2ª tarefa concluída"
+  127  ls
+  128  cat README.md
+  129  cd ..
+  130  git add .
+  131  git commit -m "2ª tarefa concluída"
+  132  git push origin main
+  133  git pull origin main
+  134  history > meusComandosAzure.txt
+
+
+   2 Clear-History
+   3 git clone https://github.com/Josu-M/Project1.git
+   4 ls
+   5 git clone https://github.com/Josu-M/LI2025-Teste03.git
+   6 git add .
+   7 git commit -m "3ª tarefa concluída"
+   8 git push origin main
+   9 git add A131953
+  10 .git
+  11 git add A131953/
+  12 git clone https://github.com/Josu-M/LI2025-Teste03.git
+  13 git add LI2025-Teste03/
+  14 cd LI2025-Teste03
+  15 git add LI2025-Teste03/
+  16 git status
+  17 git add index.html
+  18 git add LI2025-Teste03/
+  19 git add A131953/
+  20 git commit -m "3ª tarefa concluída"
+  21 git push origin main
+  22 git pull origin main
+
+
+
+pass do token: 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
